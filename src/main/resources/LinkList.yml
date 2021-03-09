@@ -1,0 +1,36 @@
+toDir: D:/downloadedByJava/
+sequenceGeneration: true
+config: 
+  key : value
+list:
+- path: https://cg-519a459a-0ea3-42c2-b7bc-fa1143481f74.s3-us-gov-west-1.amazonaws.com/bulk-downloads/2018/indiv18.zip
+  userName: sourabh
+  password: raghav
+
+- path: http://speedtest.ftp.otenet.gr/files/test100Mb.db
+  userName: pi
+  password: Hi
+
+- path: http://speedtest.ftp.otenet.gr/files/test100Mb.db
+
+- path: ftp://ftp.otenet.gr/test100k.db
+  userName: speedtest
+  password: speedtest
+
+- path: ftp://speedtest:speedtest@ftp.otenet.gr/test100k.db
+  
+- path:  ftp://speedtest:speedtest@ftp.otenet.gr/test100k.db
+
+- path:  ftp://ftp.otenet.gr/test100k.db
+  userName: speedtest
+  password: speedtest
+
+- path: ftp://ftp.dlptest.com/1_2596384601376578508_17-9ULspeedtest.upt
+  userName: dlpuser@dlptest.com
+  password: SzMf7rTE4pCrf9dV286GuNe4N 
+
+
+- path: sftp://165.114.28.223/appdata/picusr/Pic/pmt/stdlib/2D/2DBusinessRules.tcl
+  password: Lkjh^789
+  userName: picusr
+  
